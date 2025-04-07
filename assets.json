@@ -1,9 +1,5 @@
 [
   {
-    "asset": "BTC",
-    "leverage": 40
-  },
-  {
     "asset": "ETH",
     "leverage": 25
   },
