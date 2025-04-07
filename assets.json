@@ -1,0 +1,754 @@
+[
+  {
+    "asset": "BTC",
+    "leverage": 40
+  },
+  {
+    "asset": "ETH",
+    "leverage": 25
+  },
+  {
+    "asset": "ATOM",
+    "leverage": 5
+  },
+  {
+    "asset": "MATIC",
+    "leverage": 20
+  },
+  {
+    "asset": "DYDX",
+    "leverage": 5
+  },
+  {
+    "asset": "SOL",
+    "leverage": 20
+  },
+  {
+    "asset": "AVAX",
+    "leverage": 10
+  },
+  {
+    "asset": "BNB",
+    "leverage": 10
+  },
+  {
+    "asset": "APE",
+    "leverage": 5
+  },
+  {
+    "asset": "OP",
+    "leverage": 10
+  },
+  {
+    "asset": "LTC",
+    "leverage": 10
+  },
+  {
+    "asset": "ARB",
+    "leverage": 10
+  },
+  {
+    "asset": "DOGE",
+    "leverage": 10
+  },
+  {
+    "asset": "INJ",
+    "leverage": 10
+  },
+  {
+    "asset": "SUI",
+    "leverage": 10
+  },
+  {
+    "asset": "kPEPE",
+    "leverage": 10
+  },
+  {
+    "asset": "CRV",
+    "leverage": 10
+  },
+  {
+    "asset": "LDO",
+    "leverage": 10
+  },
+  {
+    "asset": "LINK",
+    "leverage": 10
+  },
+  {
+    "asset": "STX",
+    "leverage": 5
+  },
+  {
+    "asset": "RNDR",
+    "leverage": 20
+  },
+  {
+    "asset": "CFX",
+    "leverage": 5
+  },
+  {
+    "asset": "FTM",
+    "leverage": 10
+  },
+  {
+    "asset": "GMX",
+    "leverage": 5
+  },
+  {
+    "asset": "SNX",
+    "leverage": 3
+  },
+  {
+    "asset": "XRP",
+    "leverage": 20
+  },
+  {
+    "asset": "BCH",
+    "leverage": 10
+  },
+  {
+    "asset": "APT",
+    "leverage": 10
+  },
+  {
+    "asset": "AAVE",
+    "leverage": 10
+  },
+  {
+    "asset": "COMP",
+    "leverage": 5
+  },
+  {
+    "asset": "MKR",
+    "leverage": 10
+  },
+  {
+    "asset": "WLD",
+    "leverage": 10
+  },
+  {
+    "asset": "FXS",
+    "leverage": 5
+  },
+  {
+    "asset": "HPOS",
+    "leverage": 3
+  },
+  {
+    "asset": "RLB",
+    "leverage": 3
+  },
+  {
+    "asset": "UNIBOT",
+    "leverage": 3
+  },
+  {
+    "asset": "YGG",
+    "leverage": 3
+  },
+  {
+    "asset": "TRX",
+    "leverage": 10
+  },
+  {
+    "asset": "kSHIB",
+    "leverage": 10
+  },
+  {
+    "asset": "UNI",
+    "leverage": 10
+  },
+  {
+    "asset": "SEI",
+    "leverage": 10
+  },
+  {
+    "asset": "RUNE",
+    "leverage": 5
+  },
+  {
+    "asset": "OX",
+    "leverage": 3
+  },
+  {
+    "asset": "FRIEND",
+    "leverage": 3
+  },
+  {
+    "asset": "SHIA",
+    "leverage": 3
+  },
+  {
+    "asset": "CYBER",
+    "leverage": 3
+  },
+  {
+    "asset": "ZRO",
+    "leverage": 5
+  },
+  {
+    "asset": "BLZ",
+    "leverage": 5
+  },
+  {
+    "asset": "DOT",
+    "leverage": 10
+  },
+  {
+    "asset": "BANANA",
+    "leverage": 3
+  },
+  {
+    "asset": "TRB",
+    "leverage": 3
+  },
+  {
+    "asset": "FTT",
+    "leverage": 3
+  },
+  {
+    "asset": "LOOM",
+    "leverage": 10
+  },
+  {
+    "asset": "OGN",
+    "leverage": 3
+  },
+  {
+    "asset": "RDNT",
+    "leverage": 5
+  },
+  {
+    "asset": "ARK",
+    "leverage": 3
+  },
+  {
+    "asset": "BNT",
+    "leverage": 3
+  },
+  {
+    "asset": "CANTO",
+    "leverage": 5
+  },
+  {
+    "asset": "REQ",
+    "leverage": 3
+  },
+  {
+    "asset": "BIGTIME",
+    "leverage": 5
+  },
+  {
+    "asset": "KAS",
+    "leverage": 3
+  },
+  {
+    "asset": "ORBS",
+    "leverage": 3
+  },
+  {
+    "asset": "BLUR",
+    "leverage": 5
+  },
+  {
+    "asset": "TIA",
+    "leverage": 10
+  },
+  {
+    "asset": "BSV",
+    "leverage": 3
+  },
+  {
+    "asset": "ADA",
+    "leverage": 10
+  },
+  {
+    "asset": "TON",
+    "leverage": 10
+  },
+  {
+    "asset": "MINA",
+    "leverage": 3
+  },
+  {
+    "asset": "POLYX",
+    "leverage": 3
+  },
+  {
+    "asset": "GAS",
+    "leverage": 3
+  },
+  {
+    "asset": "PENDLE",
+    "leverage": 5
+  },
+  {
+    "asset": "STG",
+    "leverage": 3
+  },
+  {
+    "asset": "FET",
+    "leverage": 5
+  },
+  {
+    "asset": "STRAX",
+    "leverage": 10
+  },
+  {
+    "asset": "NEAR",
+    "leverage": 10
+  },
+  {
+    "asset": "MEME",
+    "leverage": 5
+  },
+  {
+    "asset": "ORDI",
+    "leverage": 5
+  },
+  {
+    "asset": "BADGER",
+    "leverage": 5
+  },
+  {
+    "asset": "NEO",
+    "leverage": 5
+  },
+  {
+    "asset": "ZEN",
+    "leverage": 5
+  },
+  {
+    "asset": "FIL",
+    "leverage": 5
+  },
+  {
+    "asset": "PYTH",
+    "leverage": 5
+  },
+  {
+    "asset": "SUSHI",
+    "leverage": 5
+  },
+  {
+    "asset": "ILV",
+    "leverage": 3
+  },
+  {
+    "asset": "IMX",
+    "leverage": 5
+  },
+  {
+    "asset": "kBONK",
+    "leverage": 10
+  },
+  {
+    "asset": "GMT",
+    "leverage": 5
+  },
+  {
+    "asset": "SUPER",
+    "leverage": 3
+  },
+  {
+    "asset": "USTC",
+    "leverage": 3
+  },
+  {
+    "asset": "NFTI",
+    "leverage": 3
+  },
+  {
+    "asset": "JUP",
+    "leverage": 10
+  },
+  {
+    "asset": "kLUNC",
+    "leverage": 3
+  },
+  {
+    "asset": "RSR",
+    "leverage": 3
+  },
+  {
+    "asset": "GALA",
+    "leverage": 3
+  },
+  {
+    "asset": "JTO",
+    "leverage": 5
+  },
+  {
+    "asset": "NTRN",
+    "leverage": 3
+  },
+  {
+    "asset": "ACE",
+    "leverage": 3
+  },
+  {
+    "asset": "MAV",
+    "leverage": 3
+  },
+  {
+    "asset": "WIF",
+    "leverage": 10
+  },
+  {
+    "asset": "CAKE",
+    "leverage": 3
+  },
+  {
+    "asset": "PEOPLE",
+    "leverage": 3
+  },
+  {
+    "asset": "ENS",
+    "leverage": 5
+  },
+  {
+    "asset": "ETC",
+    "leverage": 5
+  },
+  {
+    "asset": "XAI",
+    "leverage": 3
+  },
+  {
+    "asset": "MANTA",
+    "leverage": 3
+  },
+  {
+    "asset": "UMA",
+    "leverage": 3
+  },
+  {
+    "asset": "ONDO",
+    "leverage": 10
+  },
+  {
+    "asset": "ALT",
+    "leverage": 5
+  },
+  {
+    "asset": "ZETA",
+    "leverage": 3
+  },
+  {
+    "asset": "DYM",
+    "leverage": 3
+  },
+  {
+    "asset": "MAVIA",
+    "leverage": 3
+  },
+  {
+    "asset": "W",
+    "leverage": 5
+  },
+  {
+    "asset": "PANDORA",
+    "leverage": 3
+  },
+  {
+    "asset": "STRK",
+    "leverage": 5
+  },
+  {
+    "asset": "PIXEL",
+    "leverage": 3
+  },
+  {
+    "asset": "AI",
+    "leverage": 3
+  },
+  {
+    "asset": "TAO",
+    "leverage": 5
+  },
+  {
+    "asset": "AR",
+    "leverage": 5
+  },
+  {
+    "asset": "MYRO",
+    "leverage": 3
+  },
+  {
+    "asset": "kFLOKI",
+    "leverage": 5
+  },
+  {
+    "asset": "BOME",
+    "leverage": 3
+  },
+  {
+    "asset": "ETHFI",
+    "leverage": 5
+  },
+  {
+    "asset": "ENA",
+    "leverage": 10
+  },
+  {
+    "asset": "MNT",
+    "leverage": 5
+  },
+  {
+    "asset": "TNSR",
+    "leverage": 3
+  },
+  {
+    "asset": "SAGA",
+    "leverage": 5
+  },
+  {
+    "asset": "MERL",
+    "leverage": 3
+  },
+  {
+    "asset": "HBAR",
+    "leverage": 5
+  },
+  {
+    "asset": "POPCAT",
+    "leverage": 10
+  },
+  {
+    "asset": "OMNI",
+    "leverage": 3
+  },
+  {
+    "asset": "EIGEN",
+    "leverage": 5
+  },
+  {
+    "asset": "REZ",
+    "leverage": 3
+  },
+  {
+    "asset": "NOT",
+    "leverage": 3
+  },
+  {
+    "asset": "TURBO",
+    "leverage": 5
+  },
+  {
+    "asset": "BRETT",
+    "leverage": 5
+  },
+  {
+    "asset": "IO",
+    "leverage": 5
+  },
+  {
+    "asset": "ZK",
+    "leverage": 5
+  },
+  {
+    "asset": "BLAST",
+    "leverage": 3
+  },
+  {
+    "asset": "LISTA",
+    "leverage": 3
+  },
+  {
+    "asset": "MEW",
+    "leverage": 5
+  },
+  {
+    "asset": "RENDER",
+    "leverage": 5
+  },
+  {
+    "asset": "kDOGS",
+    "leverage": 3
+  },
+  {
+    "asset": "POL",
+    "leverage": 5
+  },
+  {
+    "asset": "CATI",
+    "leverage": 3
+  },
+  {
+    "asset": "CELO",
+    "leverage": 3
+  },
+  {
+    "asset": "HMSTR",
+    "leverage": 3
+  },
+  {
+    "asset": "SCR",
+    "leverage": 5
+  },
+  {
+    "asset": "NEIROETH",
+    "leverage": 5
+  },
+  {
+    "asset": "kNEIRO",
+    "leverage": 5
+  },
+  {
+    "asset": "GOAT",
+    "leverage": 5
+  },
+  {
+    "asset": "MOODENG",
+    "leverage": 5
+  },
+  {
+    "asset": "GRASS",
+    "leverage": 5
+  },
+  {
+    "asset": "PURR",
+    "leverage": 3
+  },
+  {
+    "asset": "PNUT",
+    "leverage": 5
+  },
+  {
+    "asset": "XLM",
+    "leverage": 5
+  },
+  {
+    "asset": "CHILLGUY",
+    "leverage": 3
+  },
+  {
+    "asset": "SAND",
+    "leverage": 5
+  },
+  {
+    "asset": "IOTA",
+    "leverage": 3
+  },
+  {
+    "asset": "ALGO",
+    "leverage": 5
+  },
+  {
+    "asset": "HYPE",
+    "leverage": 3
+  },
+  {
+    "asset": "ME",
+    "leverage": 5
+  },
+  {
+    "asset": "MOVE",
+    "leverage": 5
+  },
+  {
+    "asset": "VIRTUAL",
+    "leverage": 5
+  },
+  {
+    "asset": "PENGU",
+    "leverage": 5
+  },
+  {
+    "asset": "USUAL",
+    "leverage": 5
+  },
+  {
+    "asset": "FARTCOIN",
+    "leverage": 3
+  },
+  {
+    "asset": "AI16Z",
+    "leverage": 5
+  },
+  {
+    "asset": "AIXBT",
+    "leverage": 5
+  },
+  {
+    "asset": "ZEREBRO",
+    "leverage": 5
+  },
+  {
+    "asset": "BIO",
+    "leverage": 5
+  },
+  {
+    "asset": "GRIFFAIN",
+    "leverage": 5
+  },
+  {
+    "asset": "SPX",
+    "leverage": 5
+  },
+  {
+    "asset": "S",
+    "leverage": 5
+  },
+  {
+    "asset": "MORPHO",
+    "leverage": 5
+  },
+  {
+    "asset": "TRUMP",
+    "leverage": 10
+  },
+  {
+    "asset": "MELANIA",
+    "leverage": 5
+  },
+  {
+    "asset": "ANIME",
+    "leverage": 3
+  },
+  {
+    "asset": "VINE",
+    "leverage": 5
+  },
+  {
+    "asset": "VVV",
+    "leverage": 3
+  },
+  {
+    "asset": "JELLY",
+    "leverage": 3
+  },
+  {
+    "asset": "BERA",
+    "leverage": 5
+  },
+  {
+    "asset": "TST",
+    "leverage": 3
+  },
+  {
+    "asset": "LAYER",
+    "leverage": 3
+  },
+  {
+    "asset": "IP",
+    "leverage": 3
+  },
+  {
+    "asset": "OM",
+    "leverage": 5
+  },
+  {
+    "asset": "KAITO",
+    "leverage": 5
+  },
+  {
+    "asset": "NIL",
+    "leverage": 3
+  },
+  {
+    "asset": "PAXG",
+    "leverage": 5
+  }
+]
