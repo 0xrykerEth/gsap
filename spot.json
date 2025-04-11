@@ -1,1 +1,764 @@
-
+[
+  {
+    "asset": "USDC"
+  },
+  {
+    "asset": "HFUN"
+  },
+  {
+    "asset": "LICK"
+  },
+  {
+    "asset": "MANLET"
+  },
+  {
+    "asset": "JEFF"
+  },
+  {
+    "asset": "SIX"
+  },
+  {
+    "asset": "WAGMI"
+  },
+  {
+    "asset": "CAPPY"
+  },
+  {
+    "asset": "POINTS"
+  },
+  {
+    "asset": "TRUMP"
+  },
+  {
+    "asset": "GMEOW"
+  },
+  {
+    "asset": "PEPE"
+  },
+  {
+    "asset": "XULIAN"
+  },
+  {
+    "asset": "RUG"
+  },
+  {
+    "asset": "ILIENS"
+  },
+  {
+    "asset": "FUCKY"
+  },
+  {
+    "asset": "CZ"
+  },
+  {
+    "asset": "BAGS"
+  },
+  {
+    "asset": "ANSEM"
+  },
+  {
+    "asset": "TATE"
+  },
+  {
+    "asset": "FUN"
+  },
+  {
+    "asset": "SUCKY"
+  },
+  {
+    "asset": "BIGBEN"
+  },
+  {
+    "asset": "KOBE"
+  },
+  {
+    "asset": "VEGAS"
+  },
+  {
+    "asset": "PUMP"
+  },
+  {
+    "asset": "SCHIZO"
+  },
+  {
+    "asset": "CATNIP"
+  },
+  {
+    "asset": "HAPPY"
+  },
+  {
+    "asset": "SELL"
+  },
+  {
+    "asset": "HBOOST"
+  },
+  {
+    "asset": "FARMED"
+  },
+  {
+    "asset": "PURRPS"
+  },
+  {
+    "asset": "GUP"
+  },
+  {
+    "asset": "GPT"
+  },
+  {
+    "asset": "PANDA"
+  },
+  {
+    "asset": "BID"
+  },
+  {
+    "asset": "HODL"
+  },
+  {
+    "asset": "RAGE"
+  },
+  {
+    "asset": "ASI"
+  },
+  {
+    "asset": "LEAP"
+  },
+  {
+    "asset": "VAPOR"
+  },
+  {
+    "asset": "PVP"
+  },
+  {
+    "asset": "X"
+  },
+  {
+    "asset": "PILL"
+  },
+  {
+    "asset": "ADHD"
+  },
+  {
+    "asset": "LADY"
+  },
+  {
+    "asset": "CAT"
+  },
+  {
+    "asset": "HPEPE"
+  },
+  {
+    "asset": "MBAPPE"
+  },
+  {
+    "asset": "MAGA"
+  },
+  {
+    "asset": "MOG"
+  },
+  {
+    "asset": "OMNIX"
+  },
+  {
+    "asset": "COKE"
+  },
+  {
+    "asset": "JEET"
+  },
+  {
+    "asset": "DROP"
+  },
+  {
+    "asset": "CBD"
+  },
+  {
+    "asset": "ARI"
+  },
+  {
+    "asset": "TEST"
+  },
+  {
+    "asset": "KING"
+  },
+  {
+    "asset": "MEOW"
+  },
+  {
+    "asset": "ANT"
+  },
+  {
+    "asset": "FRAC"
+  },
+  {
+    "asset": "ATEHUN"
+  },
+  {
+    "asset": "FRCT"
+  },
+  {
+    "asset": "COZY"
+  },
+  {
+    "asset": "WASH"
+  },
+  {
+    "asset": "POP"
+  },
+  {
+    "asset": "NFT"
+  },
+  {
+    "asset": "JEFE"
+  },
+  {
+    "asset": "PEAR"
+  },
+  {
+    "asset": "RICH"
+  },
+  {
+    "asset": "BRIDGE"
+  },
+  {
+    "asset": "GUESS"
+  },
+  {
+    "asset": "LORA"
+  },
+  {
+    "asset": "CATBAL"
+  },
+  {
+    "asset": "TJIF"
+  },
+  {
+    "asset": "NEIRO"
+  },
+  {
+    "asset": "TIME"
+  },
+  {
+    "asset": "BERA"
+  },
+  {
+    "asset": "ANGY"
+  },
+  {
+    "asset": "DOG"
+  },
+  {
+    "asset": "MOON"
+  },
+  {
+    "asset": "MAXI"
+  },
+  {
+    "asset": "PAIN"
+  },
+  {
+    "asset": "VDO"
+  },
+  {
+    "asset": "HQ"
+  },
+  {
+    "asset": "EUR"
+  },
+  {
+    "asset": "REGARD"
+  },
+  {
+    "asset": "YUM"
+  },
+  {
+    "asset": "REKT"
+  },
+  {
+    "asset": "NMTD"
+  },
+  {
+    "asset": "HPUMP"
+  },
+  {
+    "asset": "PIGEON"
+  },
+  {
+    "asset": "LAUNCH"
+  },
+  {
+    "asset": "IRL"
+  },
+  {
+    "asset": "RISE"
+  },
+  {
+    "asset": "WOW"
+  },
+  {
+    "asset": "CINDY"
+  },
+  {
+    "asset": "CHINA"
+  },
+  {
+    "asset": "STACK"
+  },
+  {
+    "asset": "FRIED"
+  },
+  {
+    "asset": "PICKL"
+  },
+  {
+    "asset": "SHREK"
+  },
+  {
+    "asset": "NOCEX"
+  },
+  {
+    "asset": "VAULT"
+  },
+  {
+    "asset": "RANK"
+  },
+  {
+    "asset": "L"
+  },
+  {
+    "asset": "H"
+  },
+  {
+    "asset": "G"
+  },
+  {
+    "asset": "SCAM"
+  },
+  {
+    "asset": "MONAD"
+  },
+  {
+    "asset": "BOZO"
+  },
+  {
+    "asset": "RIP"
+  },
+  {
+    "asset": "UP"
+  },
+  {
+    "asset": "GIGA"
+  },
+  {
+    "asset": "FELIX"
+  },
+  {
+    "asset": "SPH"
+  },
+  {
+    "asset": "STHYPE"
+  },
+  {
+    "asset": "HPL"
+  },
+  {
+    "asset": "KHYPE"
+  },
+  {
+    "asset": "HOPE"
+  },
+  {
+    "asset": "SHOE"
+  },
+  {
+    "asset": "KNTQ"
+  },
+  {
+    "asset": "BUSSY"
+  },
+  {
+    "asset": "FATCAT"
+  },
+  {
+    "asset": "PIP"
+  },
+  {
+    "asset": "YEETI"
+  },
+  {
+    "asset": "LQNA"
+  },
+  {
+    "asset": "NASDAQ"
+  },
+  {
+    "asset": "SYLVI"
+  },
+  {
+    "asset": "FEIT"
+  },
+  {
+    "asset": "STRICT"
+  },
+  {
+    "asset": "FRUDO"
+  },
+  {
+    "asset": "VIZN"
+  },
+  {
+    "asset": "AUTIST"
+  },
+  {
+    "asset": "HGOD"
+  },
+  {
+    "asset": "LIQUID"
+  },
+  {
+    "asset": "CHEF"
+  },
+  {
+    "asset": "AZUR"
+  },
+  {
+    "asset": "EARTH"
+  },
+  {
+    "asset": "NIGGO"
+  },
+  {
+    "asset": "LUCKY"
+  },
+  {
+    "asset": "HOP"
+  },
+  {
+    "asset": "FAN"
+  },
+  {
+    "asset": "MUNCH"
+  },
+  {
+    "asset": "COPE"
+  },
+  {
+    "asset": "HPYH"
+  },
+  {
+    "asset": "YAP"
+  },
+  {
+    "asset": "HYPE"
+  },
+  {
+    "asset": "STEEL"
+  },
+  {
+    "asset": "RETARD"
+  },
+  {
+    "asset": "HOLD"
+  },
+  {
+    "asset": "STAR"
+  },
+  {
+    "asset": "WATAR"
+  },
+  {
+    "asset": "GENESY"
+  },
+  {
+    "asset": "SOLV"
+  },
+  {
+    "asset": "BUBZ"
+  },
+  {
+    "asset": "SHEEP"
+  },
+  {
+    "asset": "HYFI"
+  },
+  {
+    "asset": "FARM"
+  },
+  {
+    "asset": "FLASK"
+  },
+  {
+    "asset": "SOVRN"
+  },
+  {
+    "asset": "MON"
+  },
+  {
+    "asset": "GOD"
+  },
+  {
+    "asset": "CREAM"
+  },
+  {
+    "asset": "ANIME"
+  },
+  {
+    "asset": "HYENA"
+  },
+  {
+    "asset": "ETHC"
+  },
+  {
+    "asset": "ANZ"
+  },
+  {
+    "asset": "GAME"
+  },
+  {
+    "asset": "RIFT"
+  },
+  {
+    "asset": "SWELL"
+  },
+  {
+    "asset": "DEPIN"
+  },
+  {
+    "asset": "ROUTE"
+  },
+  {
+    "asset": "BEATS"
+  },
+  {
+    "asset": "ORA"
+  },
+  {
+    "asset": "LIQD"
+  },
+  {
+    "asset": "XBG"
+  },
+  {
+    "asset": "HETU"
+  },
+  {
+    "asset": "GG"
+  },
+  {
+    "asset": "WOOL"
+  },
+  {
+    "asset": "ISLAND"
+  },
+  {
+    "asset": "SIPHER"
+  },
+  {
+    "asset": "DBR"
+  },
+  {
+    "asset": "SENT"
+  },
+  {
+    "asset": "FLY"
+  },
+  {
+    "asset": "SSS"
+  },
+  {
+    "asset": "HWTR"
+  },
+  {
+    "asset": "NEKO"
+  },
+  {
+    "asset": "UNIT"
+  },
+  {
+    "asset": "PEG"
+  },
+  {
+    "asset": "NEURAL"
+  },
+  {
+    "asset": "PIE"
+  },
+  {
+    "asset": "DRIVE"
+  },
+  {
+    "asset": "JPEG"
+  },
+  {
+    "asset": "UBTC"
+  },
+  {
+    "asset": "TGE"
+  },
+  {
+    "asset": "HEAD"
+  },
+  {
+    "asset": "EDGE"
+  },
+  {
+    "asset": "GEN"
+  },
+  {
+    "asset": "PRFI"
+  },
+  {
+    "asset": "REI"
+  },
+  {
+    "asset": "VORTX"
+  },
+  {
+    "asset": "HAR"
+  },
+  {
+    "asset": "DEFIN"
+  },
+  {
+    "asset": "APU"
+  },
+  {
+    "asset": "MOCA"
+  },
+  {
+    "asset": "TILT"
+  },
+  {
+    "asset": "SPR"
+  },
+  {
+    "asset": "HIPPO"
+  },
+  {
+    "asset": "HANA"
+  },
+  {
+    "asset": "SWAP"
+  },
+  {
+    "asset": "MORE"
+  },
+  {
+    "asset": "LOOT"
+  },
+  {
+    "asset": "LUMI"
+  },
+  {
+    "asset": "WHYPI"
+  },
+  {
+    "asset": "ANON"
+  },
+  {
+    "asset": "OTTI"
+  },
+  {
+    "asset": "HORSY"
+  },
+  {
+    "asset": "UETH"
+  },
+  {
+    "asset": "BUDDY"
+  },
+  {
+    "asset": "LATINA"
+  },
+  {
+    "asset": "WLFI"
+  },
+  {
+    "asset": "AIR"
+  },
+  {
+    "asset": "K"
+  },
+  {
+    "asset": "PLUME"
+  },
+  {
+    "asset": "LIM"
+  },
+  {
+    "asset": "HUSD"
+  },
+  {
+    "asset": "DHYPE"
+  },
+  {
+    "asset": "EDA"
+  },
+  {
+    "asset": "FUND"
+  },
+  {
+    "asset": "EXP"
+  },
+  {
+    "asset": "SENTI"
+  },
+  {
+    "asset": "USDE"
+  },
+  {
+    "asset": "HIP"
+  },
+  {
+    "asset": "SLAY"
+  },
+  {
+    "asset": "B"
+  },
+  {
+    "asset": "USDXL"
+  },
+  {
+    "asset": "USH"
+  },
+  {
+    "asset": "FEUSD"
+  },
+  {
+    "asset": "COOK"
+  },
+  {
+    "asset": "OKI"
+  },
+  {
+    "asset": "BORG"
+  },
+  {
+    "asset": "SIGN"
+  },
+  {
+    "asset": "WMNT"
+  },
+  {
+    "asset": "KITTEN"
+  },
+  {
+    "asset": "USR"
+  },
+  {
+    "asset": "LEND"
+  },
+  {
+    "asset": "CATH"
+  },
+  {
+    "asset": "QUANT"
+  },
+  {
+    "asset": "ONLYUP"
+  },
+  {
+    "asset": "RAT"
+  },
+  {
+    "asset": "USOL"
+  }
+]
