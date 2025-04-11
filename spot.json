@@ -3,6 +3,12 @@
     "asset": "USDC"
   },
   {
+    "asset" : "PURR"
+  },
+  {
+    "asset" : "USOL"
+  },
+  {
     "asset": "HFUN"
   },
   {
