@@ -25,10 +25,12 @@ async function getMarkets() {
             type: 'meta'
         });
 
+
         const currentAssets = response.data.universe.map(item => ({
             asset: item.name,
             leverage: item.maxLeverage
         }));
+
 
         let previousAssets = [];
 
@@ -40,14 +42,15 @@ async function getMarkets() {
             !previousAssets.some(prev => prev.asset === curr.asset)
         );
 
+
+
         for (const asset of newAssets) {
             const msg = `🚨 *New Asset Available*\n\n🪙 *${asset.asset}*\n\nMax Leverage: ${asset.leverage}x\n[Trade on Hyperliquid](https://app.hyperliquid.xyz/trade/${asset.asset})`;
             console.log(msg);
-            
+
             for (const id of chatIds) {
               await bot.sendMessage(id, msg, { parse_mode: 'Markdown' });
             }
-
         }
 
         fs.writeFileSync('assets.json', JSON.stringify(currentAssets, null, 2));
@@ -56,5 +59,45 @@ async function getMarkets() {
     }
 }
 
+async function spotMarket(){
+    try {
+        const spotResponse = await axios.post('https://api.hyperliquid.xyz/info', {
+            type : 'spotMeta'
+        });
+
+        const spotAssets = spotResponse.data.tokens.map(spot => ({
+            asset: spot.name
+        }));
+
+        let previousSpotAssets = [];
+
+        if (!fs.existsSync('spot.json') || fs.readFileSync('spot.json', 'utf8').trim()=== '') {
+            fs.writeFileSync('spot.json', '[]', 'utf8');
+        } else {
+            previousSpotAssets = JSON.parse(fs.readFileSync('spot.json', 'utf8'));
+        }
+
+        const newSpotAssets = spotAssets.filter(curr =>
+            !previousSpotAssets.some(prev => prev.asset === curr.asset)
+        );
+
+        for (const spot of newSpotAssets) {
+            const msg = `🚨 *New Spot Asset Available*\n\n🪙 *${spot.asset}*\n[Trade on Hyperliquid](https://app.hyperliquid.xyz/trade/${spot.asset})`;
+            console.log(msg);
+
+            for (const id of chatIds) {
+              await bot.sendMessage(id, msg, { parse_mode: 'Markdown' });
+            }
+        }
+
+        fs.writeFileSync('spot.json', JSON.stringify(spotAssets, null, 2));
+    } catch(err) {
+        console.log(err);
+    }
+}
+
+
+spotMarket();
 getMarkets();
-setInterval(getMarkets, 1 * 60 * 1000);
+setInterval(spotMarket,1* 60 * 1000)
+setInterval(getMarkets, 2 * 60 * 1000);
