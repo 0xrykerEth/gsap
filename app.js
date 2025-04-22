@@ -9,6 +9,7 @@ const bot = new TelegramBot(token, { polling: true });
 
 if (fs.existsSync('chatIds.json')) {
   const savedIds = JSON.parse(fs.readFileSync('chatIds.json', 'utf-8'));
+  console.log(savedIds);
   chatIds = new Set(savedIds);
 }
 
