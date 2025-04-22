@@ -59,45 +59,5 @@ async function getMarkets() {
     }
 }
 
-async function spotMarket(){
-    try {
-        const spotResponse = await axios.post('https://api.hyperliquid.xyz/info', {
-            type : 'spotMeta'
-        });
-
-        const spotAssets = spotResponse.data.tokens.map(spot => ({
-            asset: spot.name
-        }));
-
-        let previousSpotAssets = [];
-
-        if (!fs.existsSync('spot.json') || fs.readFileSync('spot.json', 'utf8').trim()=== '') {
-            fs.writeFileSync('spot.json', '[]', 'utf8');
-        } else {
-            previousSpotAssets = JSON.parse(fs.readFileSync('spot.json', 'utf8'));
-        }
-
-        const newSpotAssets = spotAssets.filter(curr =>
-            !previousSpotAssets.some(prev => prev.asset === curr.asset)
-        );
-
-        for (const spot of newSpotAssets) {
-            const msg = `🚨 *New Spot Asset Available*\n\n🪙 *${spot.asset}*\n[Trade on Hyperliquid](https://app.hyperliquid.xyz/trade/${spot.asset})`;
-            console.log(msg);
-
-            for (const id of chatIds) {
-              await bot.sendMessage(id, msg, { parse_mode: 'Markdown' });
-            }
-        }
-
-        fs.writeFileSync('spot.json', JSON.stringify(spotAssets, null, 2));
-    } catch(err) {
-        console.log(err);
-    }
-}
-
-
-spotMarket();
 getMarkets();
-setInterval(spotMarket,1* 60 * 1000)
 setInterval(getMarkets, 2 * 60 * 1000);
