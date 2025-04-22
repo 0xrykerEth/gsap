@@ -7,9 +7,9 @@ const token = process.env.TOKEN;
 let chatIds = new Set();
 const bot = new TelegramBot(token, { polling: true });
 
+
 if (fs.existsSync('chatIds.json')) {
   const savedIds = JSON.parse(fs.readFileSync('chatIds.json', 'utf-8'));
-  console.log(savedIds);
   chatIds = new Set(savedIds);
 }
 
@@ -59,5 +59,8 @@ async function getMarkets() {
     }
 }
 
+
+
+
 getMarkets();
-setInterval(getMarkets, 2 * 60 * 1000);
+setInterval(getMarkets, 1 * 60 * 1000);
